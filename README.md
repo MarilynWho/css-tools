@@ -6,7 +6,7 @@ Work with a partner to implement the following user story:
 
 The following image shows a wireframe that depicts the web application's appearance and functionality:
 
-![Example of a finished wireframe for a form.](./images/01-wireframe-form-completed.png)
+![Example of a finished wireframe for a form.](./Images/01-wireframe-form-completed.png)
 
 ### Instructions
 
@@ -14,7 +14,7 @@ The following image shows a wireframe that depicts the web application's appeara
 
 2. Using the tools highlighted in the following image, create a wireframe that includes all the elements that you need for the project:
 
-   ![Google Slide tools outlined in red.](./images/02-google-slides-tool-highlight.png)
+   ![Google Slide tools outlined in red.](./Images/02-google-slides-tool-highlight.png)
 
 ### 🏆 Bonus
 
